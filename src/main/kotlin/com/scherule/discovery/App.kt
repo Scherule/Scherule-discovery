@@ -1,4 +1,4 @@
-package com.ggurgul.playground.extracker.auth
+package com.scherule.discovery
 
 import org.springframework.boot.SpringApplication
 import org.springframework.boot.autoconfigure.SpringBootApplication
