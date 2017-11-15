@@ -8,8 +8,8 @@ import org.springframework.cloud.netflix.hystrix.dashboard.EnableHystrixDashboar
 @SpringBootApplication
 @EnableEurekaServer
 @EnableHystrixDashboard
-class App
+class ScheruleDiscovery
 
 fun main(args: Array<String>) {
-    SpringApplication.run(App::class.java, *args)
+    SpringApplication.run(ScheruleDiscovery::class.java, *args)
 }
